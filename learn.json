@@ -1,5 +1,8 @@
 {
-	"title" : "Multi View React Web App",
+	"title" : {
+		"us": "Multi View React Web App",
+		"es": "Aplicación web React multivista"
+	},
 	"slug" : "multi-view-react-collaborative-website",
 	"status": "published",
 	"preview": "https://github.com/breatheco-de/exercise-multi-view-react-collaborative-website/blob/master/thumb.gif?raw=true",
@@ -9,7 +12,10 @@
 	"translations": ["es", "us"],
 	"duration" : 24,
 	"template_url": "https://github.com/4GeeksAcademy/react-hello-webapp",
-	"description" : "Create a web app using React router and Context",
+	"description" : {
+		"us": "Build a multi-view web app using React Router and Context. Collaborate in teams to create different sections like a landing page, blog, store, and login. Manage global state with Context and make the app dynamic, sharing data like user sessions, posts, and products across views. Perfect to level up your React skills!",
+		"es": "Crea una aplicación web multi-vista usando React Router y Context. Colabora en equipo para crear secciones como una página de inicio, blog, tienda y login. Gestiona el estado global con Context y haz la app dinámica, compartiendo datos como sesiones de usuario, publicaciones y productos entre vistas. ¡Ideal para mejorar tus habilidades en React!"
+	},
 	"talents": [
 		{ "badge": "tag-master", "points": 10 },
 		{ "badge": "select-everything", "points": 5 },
@@ -23,5 +29,8 @@
 		{ "badge": "the-console", "points": 10 }
 	],
     "autoPlay": false,
-    "projectType": "project"
+    "projectType": "project",
+	"telemetry": {
+    "batch": "https://breathecode.herokuapp.com/v1/assignment/me/telemetry?asset_id=202"
+  }
 }
