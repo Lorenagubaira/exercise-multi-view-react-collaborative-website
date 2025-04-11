@@ -10,7 +10,7 @@ Basta con las páginas de destino y los proyectos de vista única, es hora de cr
 
 Este es un proyecto colaborativo, la clase se dividirá en grupos y cada uno creará una parte de un sitio web de vistas múltiples.
 
-<onlyfor saas="false" withBanner="false">
+<how-to-start>
     
 ## 🌱  Cómo iniciar este proyecto
 
@@ -36,7 +36,7 @@ $ git clone https://github.com/4GeeksAcademy/react-hello-webapp
 
 ¡Hecho!
 
-</onlyfor>
+</how-to-start>
 
 ### Partes/Grupos:
 
